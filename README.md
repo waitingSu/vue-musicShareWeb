@@ -1,3 +1,10 @@
+#For Vue Demo
+
+uses options API mainly,included sanity test(for unit test,e2e test,snapshot Test),pinia,localization,routing,local and global directive.
+And connect to firebase service as database,
+
+
+
 # music
 
 This template should help get you started developing with Vue 3 in Vite.
