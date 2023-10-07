@@ -1,7 +1,7 @@
 # For Vue Demo
 
-uses options API mainly,included Validation,sanity test(for unit test,e2e test,snapshot Test),pinia,localization,routing,local and global directive.
-And connect to firebase service as database for Authentication and uploading files. \n
+uses options API mainly,included Validation,sanity test(for unit test,e2e test,snapshot Test),pinia,localization,routing,local and global directive.<br />
+And connect to firebase service as database for Authentication and uploading files.<br />
 Using vite-plugin-pwa for PWA practicing(included service worker,cache,workbox for offline service),and enable firebase persistence for offline upload error handling also.
 
 
