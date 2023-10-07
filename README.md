@@ -5,10 +5,11 @@ And connect to firebase service as database for Authentication and uploading fil
 Using vite-plugin-pwa for PWA practicing(included service worker,cache,workbox for offline service),and enable firebase persistence for offline upload error handling also.
 
 
-
 # music
 
 This template should help get you started developing with Vue 3 in Vite.
+
+The Demo Site: [musicShareWeb](https://music-example-ruby.vercel.app/)
 
 ## Recommended IDE Setup
 
